@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 040340c8ef4c6dc4daf59bade7687812
+timeCreated: 1460455415
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: axe_plane
+    100002: body
+    100004: body_plane
+    100006: fore_arm_plane
+    100008: front_arm
+    100010: group1
+    100012: hand
+    100014: hand_plane
+    100016: head
+    100018: head_plane
+    100020: imagePlane1
+    100022: Kart
+    100024: kart_plane
+    100026: //RootNode
+    100028: upper_arm_plane
+    100030: wheel
+    100032: wheel_plane
+    100034: wheel_plane1
+    400000: axe_plane
+    400002: body
+    400004: body_plane
+    400006: fore_arm_plane
+    400008: front_arm
+    400010: group1
+    400012: hand
+    400014: hand_plane
+    400016: head
+    400018: head_plane
+    400020: imagePlane1
+    400022: Kart
+    400024: kart_plane
+    400026: //RootNode
+    400028: upper_arm_plane
+    400030: wheel
+    400032: wheel_plane
+    400034: wheel_plane1
+    2300000: axe_plane
+    2300002: body_plane
+    2300004: fore_arm_plane
+    2300006: hand_plane
+    2300008: head_plane
+    2300010: kart_plane
+    2300012: upper_arm_plane
+    2300014: wheel_plane
+    2300016: wheel_plane1
+    3300000: axe_plane
+    3300002: body_plane
+    3300004: fore_arm_plane
+    3300006: hand_plane
+    3300008: head_plane
+    3300010: kart_plane
+    3300012: upper_arm_plane
+    3300014: wheel_plane
+    3300016: wheel_plane1
+    4300000: wheel_plane
+    4300002: kart_plane
+    4300004: body_plane
+    4300006: upper_arm_plane
+    4300008: fore_arm_plane
+    4300010: hand_plane
+    4300012: head_plane
+    4300014: axe_plane
+    4300016: wheel_plane1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
